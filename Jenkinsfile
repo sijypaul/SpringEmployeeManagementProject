@@ -17,7 +17,7 @@ pipeline
         {
             steps 
             {
-                bat "mvn package -f Employee-Spring-Application"
+                bat "mvn package -f SpringEmployeeManagementProject"
             }
         }
     }
