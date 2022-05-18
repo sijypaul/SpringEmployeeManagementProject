@@ -8,7 +8,7 @@ pipeline
             steps
             {
               // bat "rmdir  /s /q assesmentfile"
-              bat "https://github.com/sijypaul/SpringEmployeeManagementProject.git"
+              //bat "https://github.com/sijypaul/SpringEmployeeManagementProject.git"
                bat "mvn clean -f SpringEmployeeManagementProject"
             }
         }
